@@ -11,6 +11,22 @@ The stakeholder is an aspiring app developer who needs data driven insights to d
 - what price needs to be set
 - how to maximize user ratings
 
+**Exploratory Data Analysis**
+
+- No. of Unique Apps in both tables
+- Checking for any missing values in key fields
+- No. of Apps per Genre
+- Overview of Apps's Ratings
+- Distribution of Apps' Prices
+
+**Key Metrics**
+
+- Determining whether paid apps have higher ratings than free apps
+- Checking whether apps with more supported languages have higher ratings
+- Genres with low ratings
+- Checking if there is correlation between the length of the app description and the user rating
+- Top rated apps in each genre 
+
 **Key Insights**
 
 - **Paid apps have better ratings** - Paid apps generally achieves sightly higher ratings than the free counterparts. This could be due to a number of reasons. Users who pay for an app may have higher engagement and perceived more value leading to the better ratings.
