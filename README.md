@@ -2,6 +2,8 @@
 
 **TechStack** - MYSQL
 
+**Link to** - [Source Code](https://github.com/praganya21/Apple-Store/blob/9fae54b012d067cbb7333ac128deb75ea554011f/SQLite.sql)
+
 **Statement of Problem**
 
 The stakeholder is an aspiring app developer who needs data driven insights to decide what type of apps to build and so he is seeking answers to questions like
